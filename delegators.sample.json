@@ -1,0 +1,1982 @@
+[
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  },
+  {
+    "stakeAddress": "stake_test1uqg9deeue9k5v67qhdga75x7g33phgw5ydgvgykmzpph5ps7907fn",
+    "delegatedLovelace": "1000004239104",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upzxtpzfw6xyn7xexsf0c3lphhpjmafrz6sdr9a8u29vpnsc4mmzj",
+    "delegatedLovelace": "9997680666",
+    "poolLoyaltyEpochs": 52
+  },
+  {
+    "stakeAddress": "stake_test1ur5s53my4r582ma2nsk0m3jcy2klmcvka0cswwz075rl4zskvphhc",
+    "delegatedLovelace": "9997530137",
+    "poolLoyaltyEpochs": 74
+  },
+  {
+    "stakeAddress": "stake_test1uqagcu8t578mglz6q9lr3vzz2j6wj4zmgcvuec42ddc58vcacpguy",
+    "delegatedLovelace": "5199713024",
+    "poolLoyaltyEpochs": 77
+  },
+  {
+    "stakeAddress": "stake_test1upynaqyzlpmqul9amhzfv23dfdp0wlm5px8szvt0rtmmfls8zkta0",
+    "delegatedLovelace": "4228110",
+    "poolLoyaltyEpochs": 0
+  },
+  {
+    "stakeAddress": "stake_test1uzyrwmnscz0emq3vch7n4zhpu3dftfaz6a70pacsygz76ecv9zr3c",
+    "delegatedLovelace": "0",
+    "poolLoyaltyEpochs": 75
+  }
+]
