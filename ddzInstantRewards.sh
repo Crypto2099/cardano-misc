@@ -18,6 +18,8 @@ HELP='\033[1;36m'
 LINK='\e[4;1;34m'
 NC='\033[0m'
 
+BATCH_LIMIT=3
+
 # Show usage help (credit to Martin Lang [ATADA] <https://github.com/gitmachtl/scripts/tree/master/cardano/mainnet>
 showUsage() {
 echo -e "
@@ -76,13 +78,23 @@ Optional Parameters:
 
   ${BOLD}--minlovelace ${HELP}<amount>${NC}: Optionally specify a minimum number of Lovelace that must be delegated in
     order to qualify for rewards. Delegators must stake at least 1 MORE than this amount of Lovelace
-    in order to qualify. [Default: 0, user must delegate 1 Lovelace or more]
+    in order to qualify.
+
+    [Default: 0, user must delegate 1 Lovelace or more]
 
   ${BOLD}--ticker ${HELP}<pool_ticker>${NC}: The pool ticker issuing the rewards. Will be shown to users in the message
     on DripDropz.
 
   ${BOLD}--epoch ${HELP}<epoch_no>${NC}: The epoch number rewards are being issued for. Will be shown to users in the
     message on DripDropz.
+
+  ${BOLD}--sourcefile ${HELP}<file_path>${NC}: A path to a JSON file generated via CNCLI that contains delegator
+    information. Must match the format of ${HELP}./stakers.sample.json${NC}.
+
+    [Default: stakers.sample.json]
+
+  ${BOLD}--source ${HELP}<json_string>${NC}: You can use this argument to pass a JSON string that has already been
+    recovered from an API request or by manually running a `jq` query locally.
 "
 }
 
@@ -120,9 +132,30 @@ if [ -z ${minlovelace+x} ]; then
   minlovelace=0
 fi
 
-if [ -z ${source+x} ]; then
-  source=./stakers.sample.json
+if [ -n "${sourcefile}" ]; then
+  file_ext=${sourcefile##*.}
+  if [[ ! -f "${sourcefile}" && "${file_ext^^}" == "JSON" ]]; then # it's not a JSON file!
+    echo -e "${REKT}The provided ${HELP}sourcefile${REKT} is not a valid JSON file!"
+    exit 1
+  fi
+  source=$(jq -c . "$sourcefile")
 fi
+
+if [[ -z "${source}" ]]; then
+  echo "Source is not defined! Using default!"
+  source=$(jq -s -c . "./stakers.sample.json")
+fi
+
+valid_json=$(jq -e . >/dev/null 2>&1 <<< "$source")
+
+if [ $valid_json ]; then
+  echo -e "${REKT}The provided source is not a valid JSON!${NC}"
+  exit 1
+fi
+
+#if [ -z ${sourcefile+x} ]; then
+#  sourcefile=./stakers.sample.json
+#fi
 
 echo ""
 echo -e "${BOLD}App ID:${NC} ${appid}"
@@ -137,65 +170,59 @@ if [ -n "${ticker}" ]; then
 fi
 
 if [ -n "${epoch}" ]; then
+
   message="${message} (Epoch #${epoch})"
+
 fi
 
 if [ -n "${perada}" ]; then
+
   echo "Tokens per ADA is: ${perada} tokens"
   echo ""
 
-  groups=$(jq -c \
-  --arg minLovelace $minlovelace \
-  --arg perADA $perada \
-  --arg reason "$message" \
-  'sort_by((.delegatedLovelace|tonumber),.poolLoyaltyEpochs) |
-  reverse |
-  map(select(.delegatedLovelace|tonumber-1 >= ($minLovelace|tonumber)) |
-  {
-    address: .stakeAddress,
-    amount: ((.delegatedLovelace|tonumber / 1000000 * ($perADA|tonumber))|floor|tonumber),
-    reason: $reason
-  }) |
-  map(select(.amount > 0)) |
-  sort_by(.amount) |
-  reverse |
-  _nwise(.;3) |
-  {rewards: .}' $source)
+  amt_arg='((.delegatedLovelace|tonumber / 1000000 * ($perADA|tonumber))|floor|tonumber)'
+  flatrate=0
+
 elif [ -n "${flatrate}" ]; then
+
   echo "Flat rate of ${flatrate} tokens!"
   echo ""
 
-  groups=$(jq -c \
-    --arg minLovelace $minlovelace \
-    --arg flatRate $flatrate \
-    --arg reason "$message" \
-    'sort_by((.delegatedLovelace|tonumber),.poolLoyaltyEpochs) |
-    reverse |
-    map(select(.delegatedLovelace|tonumber-1 >= ($minLovelace|tonumber)) |
-    {
-      address: .stakeAddress,
-      amount: $flatRate|tonumber,
-      reason: $reason
-    }) |
-    _nwise(.;3) |
-    {rewards: .}' $source)
+  amt_arg='($flatRate|tonumber)'
+  perada=0
+
 else
-  groups=$(jq -c \
-  --arg minLovelace $minlovelace \
-  --arg reason "$message" \
-  'sort_by((.delegatedLovelace|tonumber),.poolLoyaltyEpochs) |
+
+  amt_arg='1'
+  flatrate=0
+  perada=0
+
+fi
+
+jq_arg='
+  sort_by((.delegatedLovelace|tonumber),.poolLoyaltyEpochs) |
   reverse |
   map(
-    select(.delegatedLovelace|tonumber-1 >= ($minLovelace|tonumber)) |
-    {
-      address: .stakeAddress,
-      amount: 1,
-      reason: $reason
-    }
+   select(.delegatedLovelace|tonumber-1 >= ($minLovelace|tonumber)) |
+   {
+     address: .stakeAddress,
+     amount: '"${amt_arg}"',
+     reason: $reason
+   }
   ) |
-  _nwise(.;3) |
-  {rewards: .}' $source)
-fi
+  _nwise(.;'"${BATCH_LIMIT}"') |
+  {rewards: .}'
+
+echo $jq_arg
+
+echo $minlovelace "$message" $perada $flatrate
+
+groups=$(jq -c \
+--arg minLovelace $minlovelace \
+--arg reason "$message" \
+--arg perADA $perada \
+--arg flatRate $flatrate \
+"$jq_arg" <<< $source)
 
 total_requests_needed=$(jq -s '. | length' <<< $groups)
 
