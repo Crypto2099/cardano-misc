@@ -86,8 +86,6 @@ Optional Parameters:
 "
 }
 
-
-
 while [ $# -gt 0 ]; do
 
    if [[ $1 == *"--"* ]]; then
@@ -120,6 +118,10 @@ fi
 
 if [ -z ${minlovelace+x} ]; then
   minlovelace=0
+fi
+
+if [ -z ${source+x} ]; then
+  source=./stakers.sample.json
 fi
 
 echo ""
@@ -158,7 +160,7 @@ if [ -n "${perada}" ]; then
   sort_by(.amount) |
   reverse |
   _nwise(.;3) |
-  {rewards: .}' stakers2.json)
+  {rewards: .}' $source)
 elif [ -n "${flatrate}" ]; then
   echo "Flat rate of ${flatrate} tokens!"
   echo ""
@@ -176,7 +178,7 @@ elif [ -n "${flatrate}" ]; then
       reason: $reason
     }) |
     _nwise(.;3) |
-    {rewards: .}' stakers2.json)
+    {rewards: .}' $source)
 else
   groups=$(jq -c \
   --arg minLovelace $minlovelace \
@@ -192,7 +194,7 @@ else
     }
   ) |
   _nwise(.;3) |
-  {rewards: .}' stakers2.json)
+  {rewards: .}' $source)
 fi
 
 total_requests_needed=$(jq -s '. | length' <<< $groups)
